@@ -11,7 +11,7 @@
     "users": [
         {
             "id": 1,
-            "name": "Le Nguyen Man",
+            "name": "Le Man",
             "username": "manman",
             "email": "man@kh.com",
             "address": {
