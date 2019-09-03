@@ -239,5 +239,25 @@
                 "bs": "target end-to-end models"
             }
         }
+    ],
+    "devices":  [
+        {
+            "deviceId": "PHT3240096",
+            "status": "activated",
+            "slots": [
+                {
+                    "active" : true
+                },
+                {
+                    "active" : true
+                },
+                {
+                    "active" : false
+                },
+                {
+                    "active" : false
+                }
+            ]
+        }
     ]
 }
