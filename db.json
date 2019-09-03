@@ -259,6 +259,63 @@
                     "active" : false
                 }
             ]
+        },
+        {
+            "deviceId": "PHT3240099",
+            "userId": 1,
+            "status": "unactivated",
+            "slots": [
+                {
+                    "active" : true
+                },
+                {
+                    "active" : true
+                },
+                {
+                    "active" : false
+                },
+                {
+                    "active" : false
+                }
+            ]
+        },
+        {
+            "deviceId": "PHT3240050",
+            "userId": 1,
+            "status": "activated",
+            "slots": [
+                {
+                    "active" : true
+                },
+                {
+                    "active" : true
+                },
+                {
+                    "active" : false
+                },
+                {
+                    "active" : false
+                }
+            ]
+        },
+        {
+            "deviceId": "PHT3240022",
+            "userId": 1,
+            "status": "unactivated",
+            "slots": [
+                {
+                    "active" : false
+                },
+                {
+                    "active" : false
+                },
+                {
+                    "active" : false
+                },
+                {
+                    "active" : false
+                }
+            ]
         }
     ]
 }
