@@ -239,6 +239,25 @@
                     "active": false
                 }
             ]
+        },
+        {
+            "deviceId": "PHT3240025",
+            "userId": 1,
+            "status": "activated",
+            "slots": [
+                {
+                    "active": false
+                },
+                {
+                    "active": false
+                },
+                {
+                    "active": false
+                },
+                {
+                    "active": false
+                }
+            ]
         }
     ]
 }
