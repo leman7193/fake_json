@@ -240,23 +240,23 @@
             }
         }
     ],
-    "devices":  [
+    "devices": [
         {
             "deviceId": "PHT3240096",
             "userId": 1,
             "status": "activated",
             "slots": [
                 {
-                    "active" : true
+                    "active": true
                 },
                 {
-                    "active" : true
+                    "active": true
                 },
                 {
-                    "active" : false
+                    "active": false
                 },
                 {
-                    "active" : false
+                    "active": false
                 }
             ]
         },
@@ -266,16 +266,16 @@
             "status": "unactivated",
             "slots": [
                 {
-                    "active" : true
+                    "active": true
                 },
                 {
-                    "active" : true
+                    "active": true
                 },
                 {
-                    "active" : false
+                    "active": false
                 },
                 {
-                    "active" : false
+                    "active": false
                 }
             ]
         },
@@ -285,16 +285,16 @@
             "status": "activated",
             "slots": [
                 {
-                    "active" : true
+                    "active": true
                 },
                 {
-                    "active" : true
+                    "active": true
                 },
                 {
-                    "active" : false
+                    "active": false
                 },
                 {
-                    "active" : false
+                    "active": false
                 }
             ]
         },
@@ -304,16 +304,16 @@
             "status": "unactivated",
             "slots": [
                 {
-                    "active" : false
+                    "active": false
                 },
                 {
-                    "active" : false
+                    "active": false
                 },
                 {
-                    "active" : false
+                    "active": false
                 },
                 {
-                    "active" : false
+                    "active": false
                 }
             ]
         },
@@ -323,16 +323,16 @@
             "status": "unactivated",
             "slots": [
                 {
-                    "active" : false
+                    "active": false
                 },
                 {
-                    "active" : false
+                    "active": false
                 },
                 {
-                    "active" : false
+                    "active": false
                 },
                 {
-                    "active" : false
+                    "active": false
                 }
             ]
         },
@@ -342,16 +342,16 @@
             "status": "unactivated",
             "slots": [
                 {
-                    "active" : false
+                    "active": false
                 },
                 {
-                    "active" : false
+                    "active": false
                 },
                 {
-                    "active" : false
+                    "active": false
                 },
                 {
-                    "active" : false
+                    "active": false
                 }
             ]
         },
@@ -361,16 +361,16 @@
             "status": "unactivated",
             "slots": [
                 {
-                    "active" : false
+                    "active": false
                 },
                 {
-                    "active" : false
+                    "active": false
                 },
                 {
-                    "active" : false
+                    "active": false
                 },
                 {
-                    "active" : false
+                    "active": false
                 }
             ]
         }
