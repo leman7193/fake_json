@@ -132,15 +132,23 @@
             "status": "activated",
             "slots": [
                 {
+                    "index": 1,
+                    "name": "Switch 1",
                     "active": true
                 },
                 {
+                    "index": 2,
+                    "name": "Switch 2",
                     "active": true
                 },
                 {
+                    "index": 3,
+                    "name": "Switch 3",
                     "active": false
                 },
                 {
+                    "index": 4,
+                    "name": "Switch 4",
                     "active": false
                 }
             ]
@@ -151,15 +159,23 @@
             "status": "unactivated",
             "slots": [
                 {
+                    "index": 1,
+                    "name": "Switch 1",
                     "active": true
                 },
                 {
+                    "index": 2,
+                    "name": "Switch 2",
                     "active": true
                 },
                 {
+                    "index": 3,
+                    "name": "Switch 3",
                     "active": false
                 },
                 {
+                    "index": 4,
+                    "name": "Switch 4",
                     "active": false
                 }
             ]
@@ -170,15 +186,23 @@
             "status": "activated",
             "slots": [
                 {
+                    "index": 1,
+                    "name": "Switch 1",
                     "active": true
                 },
                 {
+                    "index": 2,
+                    "name": "Switch 2",
                     "active": true
                 },
                 {
+                    "index": 3,
+                    "name": "Switch 3",
                     "active": false
                 },
                 {
+                    "index": 4,
+                    "name": "Switch 4",
                     "active": false
                 }
             ]
@@ -189,15 +213,23 @@
             "status": "unactivated",
             "slots": [
                 {
+                    "index": 1,
+                    "name": "Switch 1",
+                    "active": true
+                },
+                {
+                    "index": 2,
+                    "name": "Switch 2",
+                    "active": true
+                },
+                {
+                    "index": 3,
+                    "name": "Switch 3",
                     "active": false
                 },
                 {
-                    "active": false
-                },
-                {
-                    "active": false
-                },
-                {
+                    "index": 4,
+                    "name": "Switch 4",
                     "active": false
                 }
             ]
@@ -208,15 +240,23 @@
             "status": "unactivated",
             "slots": [
                 {
+                    "index": 1,
+                    "name": "Switch 1",
+                    "active": true
+                },
+                {
+                    "index": 2,
+                    "name": "Switch 2",
+                    "active": true
+                },
+                {
+                    "index": 3,
+                    "name": "Switch 3",
                     "active": false
                 },
                 {
-                    "active": false
-                },
-                {
-                    "active": false
-                },
-                {
+                    "index": 4,
+                    "name": "Switch 4",
                     "active": false
                 }
             ]
@@ -227,34 +267,23 @@
             "status": "unactivated",
             "slots": [
                 {
+                    "index": 1,
+                    "name": "Switch 1",
+                    "active": true
+                },
+                {
+                    "index": 2,
+                    "name": "Switch 2",
+                    "active": true
+                },
+                {
+                    "index": 3,
+                    "name": "Switch 3",
                     "active": false
                 },
                 {
-                    "active": false
-                },
-                {
-                    "active": false
-                },
-                {
-                    "active": false
-                }
-            ]
-        },
-        {
-            "deviceId": "PHT3240025",
-            "userId": 1,
-            "status": "activated",
-            "slots": [
-                {
-                    "active": false
-                },
-                {
-                    "active": false
-                },
-                {
-                    "active": false
-                },
-                {
+                    "index": 4,
+                    "name": "Switch 4",
                     "active": false
                 }
             ]
