@@ -10,7 +10,7 @@
     },
     "users": [
         {
-            "userId": 123,
+            "id": 123,
             "userName": "Le Man",
             "phone": "0929611756",
             "email": "man@kh.com",
@@ -19,7 +19,7 @@
             "active": true
         },
         {
-            "userId": 124,
+            "id": 124,
             "userName": "Le Van A",
             "phone": "0929611756",
             "email": "man@kh.com",
