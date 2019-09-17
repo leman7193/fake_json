@@ -30,7 +30,7 @@
     ],
     "devices": [
         {
-            "id": "PHT3240096",
+            "deviceId": "PHT3240096",
             "deviceName": "12312312",
             "customerId": 123,
             "dayActive": "07/09/2019",
@@ -51,7 +51,7 @@
             ]
         },
         {
-            "id": "PHT3240097",
+            "deviceId": "PHT3240097",
             "deviceName": "SW2",
             "customerId": 123,
             "dayActive": "07/09/2019",
